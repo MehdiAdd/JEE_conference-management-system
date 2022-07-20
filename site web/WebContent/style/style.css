@@ -1,0 +1,167 @@
+.navbar-brand{
+    font-weight : bold ;
+    font-family:monospace;
+    font-size:28px;
+	color:white;
+ }
+ .navbar{
+	 position : absolute;
+ }
+.navbar  .navbar-nav .nav-link{
+	font-weight:700;
+	font-size:14px; 
+	color:white
+}
+.navbar-nav .nav-item{ 
+	margin:0 6px; 
+ 
+}
+ 
+ .navbar-nav  .nav-link:focus{
+	color:#90caf9;
+} 
+ .navbar-nav .nav-item:hover{
+	 background:#6da2f8;
+	 transition : .5s;
+	 cursor: pointer;
+  
+ }
+
+ @media only screen and (max-width:991px){
+	.navbar-nav.ml-auto{
+		background:rgba(0,0,0,.5);
+	}
+	.navbar-toggler{
+		padding: 1px 5px;
+		font-size:18px;
+		line-height:0.3;
+		background:white;
+		
+	}
+
+}
+.navbar-nav .nav-link{
+	padding: .2rem 1rem;
+}
+.navbar-nav{
+	text-align:center;
+}
+.topleft {
+  position: relative;
+  top:-70px;
+
+  text-align: center;
+  font-size: 40px;
+  color:white;
+  margin-left:auto;
+  font-weight:bold;
+  margin-right:auto;
+}
+.menu .topleft{
+	padding:35px;
+	background:rgba(0,0,0,.5);
+	box-shadow: 0px 10px 30px rgba(0,0,0,.8);
+	width:450px;
+}
+#inscription {
+display: block;
+	margin-bottom: 50px;
+	
+	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	font-family: sans-serif;
+	
+	padding: 40px 10px;
+	
+	width: 450px;
+	background-color:rgba(0,0,0,.5);
+	background-size: cover;
+	opacity: 0.9;
+	box-shadow: 0px 10px 30px rgba(0,0,0,.8);
+	border-radius: 14px;
+}
+#inscription #input{
+	margin:8px;
+}
+#inscription #input input{width: 60%;
+margin-bottom: 20px;
+margin-left: 60px;
+padding: 4px 20px;
+color: white;
+font-size: 14px;
+font-family: sans-serif;
+border: none;
+outline: none;
+border-bottom: 1px solid white;
+background: transparent;}
+#inscription #input label {
+position:relative;
+right: 60%;
+pointer-events: none;
+}
+#inscription #input input:focus ~ label,
+#inscription #input input:valid ~ label{
+	top:-20px;
+ 
+	font-size: 10px;
+	transition :0.5s;
+}
+#inscription #button input {
+	position: relative;
+	left: 50%;
+	border: none;
+	background: transparent;
+	outline: none;
+	margin: 5px;
+	padding: 8px;
+	color:#fff;
+	font-size: 20px;
+	cursor: pointer;
+	font-family: sans-serif;
+
+}
+
+#inscription #button input:hover {
+	
+	font-weight: bold
+}
+#inscription h2 {
+	margin-right: 20px;
+	text-align: center;
+	font-size: 28px;
+	font-family: sans-serif;
+	
+	
+	padding-bottom: 30px;
+	padding-top: 20px;
+	font-weight: bold;
+}
+.inscription-text{
+	color: rgb(97, 103, 113);
+	font-size:18px;
+	font-family:sans-serif;
+	text-align:justify;
+}
+.input-file::-webkit-file-upload-button{
+  background-color: rgba(0,0,0,.5); 
+  color: white; 
+  border: 2px solid white;
+  border-radius: 7px;
+}
+.input-file{
+	  position:relative;
+  left:50px;
+  
+  padding-bottom:14px;
+}
+.input-file::-webkit-file-upload-button:hover{
+	letter-spacing:0.5px;
+	 background-color: rgba(0,0,0,.7);
+}
+
+
+ 
+	
+ 
+	

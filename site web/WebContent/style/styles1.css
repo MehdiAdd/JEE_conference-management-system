@@ -1,0 +1,80 @@
+.navbar-brand{
+    font-weight : bold ;
+    font-family:monospace;
+    font-size:28px;
+	color:white;
+ }
+ .navbar{
+	 position : absolute;
+ }
+.navbar  .navbar-nav .nav-link{
+	font-weight:700;
+	font-size:14px; 
+	color:white
+}
+.navbar-nav .nav-item{ 
+	margin:0 6px; 
+ 
+}
+ .navbar-nav  .nav-link:focus{
+	color:#90caf9;
+}
+ 
+.navbar-nav .nav-item:hover{
+	 background:#6da2f8;
+	 transition : .5s;
+	 cursor: pointer; 
+ 
+	 
+ }
+ .nav .nav-tabs a{ 
+     color:red;
+     padding : 8px 9px;
+ 
+ }
+.information{
+	 margin-top:0;
+	 backgroun-color:#ececec;
+	 padding :30px 0;
+ }
+ 
+ .information .h1{
+	 font-size:50px;
+	 color:#848484;
+ }
+ 
+ #team{
+	 padding-top :50 px;
+	 padding-bottom:50px;
+	 color:#555;
+ }
+  
+ 
+ .profile-pic .img-box{
+ opacity:1;
+ display:block;
+ position:relative;
+ box-shadow: 0px 8px 10px rgba(0,0,0,.5);
+ margin-top:82px; 
+ width:100%;
+
+ border-radius: 8px
+ }
+ .profile-pic .img-box img{
+ width:40%;
+ height:40%;
+ }
+ .profile-pic h3{
+ margin-top:8px;
+  font-size:22px;
+  font-weight:bold;
+  color:#00428a!important;
+ }
+ 
+  .profile-pic h5{
+    font-size:15px;
+    font-weight:bold;
+    margin-top:4px;
+  }
+
+    
