@@ -20,13 +20,13 @@ Our application is divided into two parts: user part and administrator part.
   ![](images/1.png)
   ![](images/2.png)
 
-- program page
+- program page<br/>
   ![](images/3.png)
 
-- Committee page
+- Committee page<br/>
   ![](images/4.png)
 
-- Auditor registration
+- Auditor registration<br/>
   ![](images/5.png)
 
 ### Back Office (Desktop app)
