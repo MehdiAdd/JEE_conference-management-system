@@ -14,17 +14,20 @@ Our application is divided into two parts: user part and administrator part.
 - Home page 
 ![](images/1.png)
 ![](images/2.png)
+
 - program page
 ![](images/3.png)
+
 - Committee page
 ![](images/4.png)
+
 - Auditor registration
 ![](images/5.png)
 
 ### Back Office (Desktop app)
 - Login page 
 ![](images/6.png)
--Profil modification
+- Profil modification
 ![](images/7.png)
 - Abstract Management
 ![](images/8.png)
