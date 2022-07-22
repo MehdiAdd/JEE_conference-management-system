@@ -10,8 +10,25 @@ Our application is divided into two parts: user part and administrator part.
 - Finally for the processing, we used the EJB (Enterprise Java Bean)(named **EJB_Conference**) which has two clients, the web site as a local client and the application as a remote client which uses the RMI protocol
 
 ## Visualization
-
+### Front Office (Web site)
+- Home page 
 ![](images/1.png)
 ![](images/2.png)
+- program page
 ![](images/3.png)
+- Committee page
 ![](images/4.png)
+- Auditor registration
+![](images/5.png)
+
+### Back Office (Desktop app)
+- Login page 
+![](images/6.png)
+-Profil modification
+![](images/7.png)
+- Abstract Management
+![](images/8.png)
+- Committee page
+![](images/9.png)
+- Attendance & Attestation Management
+![](images/10.png)
