@@ -16,7 +16,7 @@ Our application is divided into two parts: user part and administrator part.
 
 ### Front Office (Web site)
 
-- Home page
+- Home page<br/>
   ![](images/1.png)
   ![](images/2.png)
 
